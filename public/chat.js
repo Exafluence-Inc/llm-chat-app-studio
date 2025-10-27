@@ -15,7 +15,7 @@ let chatHistory = [
   {
     role: "assistant",
     content:
-      "Hello! I'm an LLM chat app powered by Cloudflare Workers AI. How can I help you today?",
+      "Welcome to ExfDigital Studio! How can I help you?",
   },
 ];
 let isProcessing = false;
